@@ -1,14 +1,3 @@
 {
-  "articles": [
-    {
-      "id": "f0c60acf-20ca-40df-8bb4-adf6525280e4",
-      "title": "string",
-      "slug": "string",
-      "image": "https://dddd.com",
-      "description": "strifffffffffffng",
-      "tags": [
-        "string"
-      ]
-    }
-  ]
+  "articles": []
 }
