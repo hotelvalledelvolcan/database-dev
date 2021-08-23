@@ -1,7 +1,7 @@
 {
   "id": "387e53f4-5fce-4461-b1d3-fa7e903dd698",
   "title": "Producto de prueba",
-  "image": null,
+  "image": "https://raw.githubusercontent.com/hotelvalledelvolcan/database-dev/main/images/IMG-20210822-WA0002.jpg",
   "description": "alta charala",
   "body": "\u003Cp\u003Ete tienre que gustar ok?\u003C/p\u003E\u003Ch1\u003EOK\u003C/h1\u003E",
   "tags": [
