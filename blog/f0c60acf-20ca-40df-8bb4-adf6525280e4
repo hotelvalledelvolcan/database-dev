@@ -2,11 +2,12 @@
   "id": "f0c60acf-20ca-40df-8bb4-adf6525280e4",
   "title": "string",
   "slug": "string",
-  "image": "https://dddd.com",
+  "image": "https://raw.githubusercontent.com/hotelvalledelvolcan/database-dev/main/images/IMG-20210822-WA000222.jpg",
   "description": "strifffffffffffng",
   "body": "strin555555g",
   "tags": [
-    "string"
+    "string",
+    "545"
   ],
   "published": true,
   "creationDate": "2021-07-24T00:00:00-03:00"
