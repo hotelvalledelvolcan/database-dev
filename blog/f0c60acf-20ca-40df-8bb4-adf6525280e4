@@ -6,8 +6,7 @@
   "description": "strifffffffffffng",
   "body": "strin555555g",
   "tags": [
-    "string",
-    "545"
+    { "name": "string"}
   ],
   "published": true,
   "creationDate": "2021-07-24T00:00:00-03:00"
